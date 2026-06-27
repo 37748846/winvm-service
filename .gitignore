@@ -1,0 +1,13 @@
+# Agent workspace files - NOT part of the project
+AGENTS.md
+SOUL.md
+PROFILE.md
+MEMORY.md
+memory/
+skills/
+tool_results/
+dialog/
+*.sh
+*.pyc
+__pycache__/
+*.log
